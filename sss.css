@@ -137,3 +137,9 @@ footer {
   left: 0;
   width: 100%;
 }
+
+#grafik{
+  width: 70%;
+  position: absolute;
+  height: auto;
+}
