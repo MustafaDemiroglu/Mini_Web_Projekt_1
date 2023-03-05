@@ -12,7 +12,6 @@ body {
 }
 
 header {
-  background-color: #4CAF50;
   color: white;
   padding: 20px;
 }
@@ -129,9 +128,9 @@ main {
 }
 
 footer {
-  background-color: #333;
+  text-align: right;
   color: #fff;
-  padding: 20px;
+  padding: 5px;
   position: fixed;
   bottom: 0;
   left: 0;
@@ -139,8 +138,9 @@ footer {
 }
 
 #grafik{
-  width: 70%;
-  position:relative;
+  width: 60%;
+  position: absolute;
   height: auto;
+  margin-left: 20%;
   
 }
