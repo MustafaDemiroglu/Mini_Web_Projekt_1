@@ -3,11 +3,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-image: url("hintergrundbild.jpg");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-attachment: fixed;
-  background-size: cover;
+  
 }
 
 .background-container {
@@ -19,6 +15,11 @@ body {
   left: 0;
   z-index: -1;
   filter: blur(5px);
+  background-image: url("hintergrundbild.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 header {
