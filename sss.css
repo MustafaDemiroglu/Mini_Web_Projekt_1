@@ -1,9 +1,7 @@
-
 body {
   font-family: Arial, sans-serif;
   margin: 0;
-  padding: 0;
-  
+  padding: 0; 
 }
 
 .background-container {
@@ -148,9 +146,8 @@ footer {
 }
 
 #grafik{
-  width: 60%;
+  width: 50%;
   position: absolute;
   height: auto;
-  margin-left: 20%;
-  
+  margin-left: 25% ; 
 }
