@@ -91,10 +91,10 @@ p {
 }
 
 ul {
-  text-align: ;
+  text-align:left ;
   list-style-type: disc;
-  margin-left: 20px;
-  margin-bottom: 20px;
+  margin: 20%;
+  color: white;
 }
 
 li {
@@ -103,7 +103,7 @@ li {
 }
 
 a {
-  color: #4CAF50;
+  color: white;
   text-decoration: none;
 }
 
