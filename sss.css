@@ -46,13 +46,14 @@ nav a {
 
 table {
   border-collapse: collapse;
-  width: 100%;
+  width: 70%;
 }
 
 th, td {
   padding: 8px;
-  text-align: left;
+  text-align: center;
   border-bottom: 1px solid #ddd;
+  color: white;
 }
 
 th {
